@@ -1,0 +1,9 @@
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\WikiData.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\WikiData.pdb
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\HtmlAgilityPack.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\Newtonsoft.Json.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\HtmlAgilityPack.pdb
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\HtmlAgilityPack.xml
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\bin\Debug\Newtonsoft.Json.xml
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\obj\Debug\WikiData.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WikiData\obj\Debug\WikiData.pdb
